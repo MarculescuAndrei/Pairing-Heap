@@ -29,5 +29,9 @@ _________________________
 <p align="center">
 <b>Information about Pairing Heaps:</b>
 </p>
-
-
+<br>
+<p align="center">
+<img src="https://i.imgur.com/HghkuVy.jpg"
+</p>
+  
+ 
