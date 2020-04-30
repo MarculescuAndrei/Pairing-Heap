@@ -26,7 +26,7 @@ After that, you are faced with 4 operations:
 
 _________________________
 
-<p align="center>
+<p align="center">
 <b>Information about Pairing Heaps:</b>
 </p>
 
