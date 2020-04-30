@@ -22,4 +22,12 @@ After that, you are faced with 4 operations:
 
 4. Deletes the Root;
 
+<br>
+
+_________________________
+
+<p align="center>
+<b>Information about Pairing Heaps:</b>
+</p>
+
 
