@@ -1,7 +1,7 @@
 # Pairing-Heap
 <br>
 
-A working Pairing Heap implementation in Python 3.
+A Pairing-Heap implementation in Python 3.
 
 __________________________
 <br>
