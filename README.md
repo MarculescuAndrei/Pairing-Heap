@@ -15,7 +15,7 @@ After that, you are faced with 4 operations:
 
 
 1. Insert;
-<br>
+
 2. Print the Pairing Heap;
 <br>
 3. Print the Root;
