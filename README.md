@@ -39,7 +39,7 @@ _________________________
 </p>
   
 <br>
-__________
+________________________
 <br>
 Pairing heaps are a specific implementation of the heap data structure. They have fast amortized running times for their operations. Pairing heaps are a type of self-adjusting binomial heap. Self-adjusting structures rearrange themselves when operations happen to remain balanced, for example, an AVL tree is an example of a self-adjusting or rebalancing binary search tree.
 <br>
