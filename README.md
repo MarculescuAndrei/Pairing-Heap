@@ -31,7 +31,16 @@ _________________________
 </p>
 <br>
 <p align="center">
-<img src="https://i.imgur.com/HghkuVy.jpg"
+<img src="https://i.imgur.com/6zb2DBL.jpg"
+</p>
+<br>
+<p align="center">
+<b>Via https://brilliant.org:</b>
 </p>
   
- 
+<br>
+Pairing heaps are a specific implementation of the heap data structure. They have fast amortized running times for their operations. Pairing heaps are a type of self-adjusting binomial heap. Self-adjusting structures rearrange themselves when operations happen to remain balanced, for example, an AVL tree is an example of a self-adjusting or rebalancing binary search tree.
+<br>
+Though pairing heaps are very simple to implement, they can be difficult to analyze. In fact, finding the exact bounds on the running time of pairing heap operations is still an open problem[1], but the current best guesses for running times are listed in the complexity section.
+<br>
+Pairing heaps are used in algorithms associated with minimum spanning trees, and like other heaps, pairing heaps can be used to implement priority queues.
