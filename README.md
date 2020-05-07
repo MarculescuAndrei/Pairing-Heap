@@ -20,7 +20,7 @@ After that, you are faced with 4 operations:
 
 3. Print the Root;
 
-4. Deletes the Root;
+4. Delete the Root;
 
 <br>
 
